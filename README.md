@@ -1,5 +1,6 @@
-# Robot-self-localization-using-landmarks
-Robot self-localization based on visual landmarks using Hough line transform and particle filters
+# Robot self-localization using visual landmarks
+
+```Robot self-localization based on visual landmarks using Hough line transform and particle filters```
 
 **Project abstract:** 
  - Robot localization has always been a very important problem in the field of robotics.  There have been numerous 
@@ -24,4 +25,6 @@ also made sure that the robot is not traversed on a textured or a highlyreflecti
 
 **Dependencies:**
  - OpenCV
- - C++ 11 and higher
+ - C++ 11 or higher
+
+>> The complete dataset created is not present in this repo due to its size
